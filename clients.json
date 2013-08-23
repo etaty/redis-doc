@@ -398,7 +398,16 @@
     "authors": ["evilkost"],
     "active": true
   },
-
+  
+  {
+    "name": "rediscala",
+    "language": "Scala",
+    "repository": "https://github.com/etaty/rediscala",
+    "description": "Fast, Non-blocking, Reactive Redis driver",
+    "authors": ["etaty"]
+    "active": true
+  },
+  
   {
     "name": "scala-redis",
     "language": "Scala",
